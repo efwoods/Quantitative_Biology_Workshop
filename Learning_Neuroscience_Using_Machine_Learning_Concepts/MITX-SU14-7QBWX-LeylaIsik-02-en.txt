@@ -1,0 +1,38 @@
+
+All right.
+So I mentioned that I use neuroimaging
+to study the human visual system.
+So you guys just got a really nice introduction
+to visual neuroscience.
+So I use what's known as "magnetoencephalography"
+or "MEG."
+So this is a picture of an MEG scanner.
+It's a non-invasive brain imaging scanner.
+So a subject sits in the MEG machine,
+and there's this helmet that goes over the head.
+And that helmet has 300 sensors inside of it
+that record the changes in magnetic fields
+when many neurons fire together.
+So you guys just learned that, when a neuron fires,
+it induces a current.
+And this current, in turn, changes the magnetic fields.
+And so these are very small magnetic fields,
+but we have extremely sensitive sensors in here
+that can pick up those changes.
+And so it can give you a direct measure
+of how the person's neurons are firing
+based on different stimuli.
+So it's pretty neat, I think.
+And so I can put the person in the scanner
+and show them different images on this projector.
+And so the data I'm about to show
+you is from one subject who viewed 25 different scene
+images, and these scenes came from five different classes.
+So beaches, cities, forests, highways, and mountains.
+What we're going to do is see if, based on their MEG data,
+we can use machine learning to learn about which stimuli
+they were viewing and even predict what image they were
+viewing just based on their brain signals.
+So it's kind of cool.
+You can think of it as like a form of brain reading almost.
+So hopefully, you guys are excited to check it out.
