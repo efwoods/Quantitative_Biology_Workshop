@@ -8,9 +8,10 @@ SVMStruct = fitcsvm(train_data, train_cat_labels, "Standardize", 'on');
 pred = predict(SVMStruct, test_data);
 
 %% Display the predicted and ground truth labels
-pred'
+figure
+
+
+
+pred
 test_cat_labels
 
-%% Calculate the accuracy of the SVM classifier
-A = sum(pred' == test_cat_labels);
-accuracy = A/length(pred);
